@@ -1,6 +1,6 @@
-![Grey Minimalist Corporate Personal Profile LinkedIn Banner (1)](https://user-images.githubusercontent.com/99764268/180862356-13f95596-c3e5-4368-bb3a-509751324d89.png)
+![Grey Brown Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/99764268/180870779-ec258c9b-b536-4f56-bfac-b3c18680b6b4.png)
 
-Hi there 👋, my name is Shannon Bentley.
+Hi! 👋 I'm Shannon! 
 
 ** Introduction **
 I am a recent teacher and healthcare worker looking to transition into tech. I taught myself the scripting languages, then started a bootcamp to learn about frameworks, libraries and the backend duties of a software engineer. I am creative, detail-oriented, and results-driver. Therefore, you can count on me when it comes to any project. 
