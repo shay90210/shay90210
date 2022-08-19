@@ -21,7 +21,7 @@ Check out my projects!
 
 ## GitHub Stats
 
-[![shay90210's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Shannon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shay90210)](https://github.com/shay90210/github-readme-stats)
 
 ## Contact
 [Twitter](https://twitter.com/ShannonTatianna)
