@@ -2,6 +2,8 @@
 
 Hi! 👋 I'm Shannon! 
 
+![Professional Tech Pic](https://user-images.githubusercontent.com/99764268/185683425-cb80b60b-1f6f-4d40-8263-0c2dbe8fcdac.JPEG)
+
 ** Introduction **
 I am a recent teacher and healthcare worker looking to transition into tech. I taught myself the scripting languages, then started a bootcamp to learn about frameworks, libraries and the backend duties of a software engineer. I am creative, detail-oriented, and results-driver. Therefore, you can count on me when it comes to any project. 
 
