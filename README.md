@@ -3,7 +3,7 @@
 #Hi! 👋 I'm Shannon! 
 
 <p align="center">
-  <img src=![Professional Tech Pic](https://user-images.githubusercontent.com/99764268/185684258-4960a5d1-0327-43ac-9a3e-784dd10de458.JPEG) width="350" alt="accessibility text">
+  <img src="relative/path/in/repository/to/Professional Tech Pic.JPEG" width="350" alt="accessibility text">
 </p>
 
 I am a recent teacher and healthcare worker looking to transition into tech. I taught myself the scripting languages, then started a bootcamp to learn about frameworks, libraries and the backend duties of a software engineer. I am creative, detail-oriented, and results-driver. Therefore, you can count on me when it comes to any project. 
