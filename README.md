@@ -6,6 +6,7 @@
 I am an ex-educator :teacher: and an ex-healthcare worker :health_worker: transitioning into tech. I taught myself the web development scripting languages, then started a bootcamp to learn about UI frameworks, UI libraries and the backend languages and relational databases to become a full-stack software engineer. I am creative, detail-oriented, and results-driven. Therefore, you can count on me when it comes to any project. 
 
 - 🧑‍🎓 @ Nucamp Coding Boot Camp
+- Dream Job = Working for Electronic Arts (EA) on The Sims
 - 🐶 🐶 Charlotte Marie (Charley) & LadyBelle Anne
 - 💙	Disney, Thanksgiving/Christmas, Writing, & Cooking 
 - ✈️	to Mexico, Morocco, Germany, and The Bahamas 
@@ -13,7 +14,7 @@ I am an ex-educator :teacher: and an ex-healthcare worker :health_worker: transi
 
 ## About Me
 - Self-Taught and Student @ Nucamp Coding Bootcamp
-- Teacher and Healthcare Worker
+- Teacher Credentials and Leadership Abilities
 - Content Creator for TikTok and Podcast "Talk Your FemSH!T"
 
 ## GitHub Stats
