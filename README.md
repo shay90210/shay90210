@@ -1,10 +1,8 @@
 ![Grey Brown Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/99764268/180870779-ec258c9b-b536-4f56-bfac-b3c18680b6b4.png)
 
-#Hi! 👋 I'm Shannon! 
+# Hi! 👋 I'm Shannon! 
 
-<p align="center">
-  <img src="relative/path/in/repository/to/Professional Tech Pic.JPEG" width="350" alt="accessibility text">
-</p>
+![Professional Tech Pic](https://user-images.githubusercontent.com/99764268/185684791-752789a1-ba5c-4a95-8390-f1b726efdcc7.JPEG)
 
 I am a recent teacher and healthcare worker looking to transition into tech. I taught myself the scripting languages, then started a bootcamp to learn about frameworks, libraries and the backend duties of a software engineer. I am creative, detail-oriented, and results-driver. Therefore, you can count on me when it comes to any project. 
 
