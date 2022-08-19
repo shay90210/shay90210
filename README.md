@@ -24,4 +24,5 @@ Check out my projects!
 ## Contact
 [Twitter](https://twitter.com/ShannonTatianna)
 [LinkedIn](https://www.linkedin.com/in/shannontatibentley/)
+[Email](bentley.shannon@yahoo.com)
 
