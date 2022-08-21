@@ -1,5 +1,17 @@
 ![Grey Brown Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/99764268/185690334-77498bd7-d983-4eaf-adf8-93ba1d56ace2.png)
 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 ## Introduction 
 I am an ex-educator :teacher: and an ex-healthcare worker :health_worker: transitioning into tech. I taught myself the web development scripting languages, then started a bootcamp to learn about UI frameworks, UI libraries and the backend languages and relational databases to become a full-stack software engineer. I am creative, detail-oriented, and results-driven. 
 
