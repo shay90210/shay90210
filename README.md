@@ -39,6 +39,6 @@ Check out my projects!
 
 ## GitHub Stats
 
-[![Shannon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shay90210&theme=algolia&show_icons=true)](https://github.com/shay90210/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shay90210&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shay90210&theme=algolia)](https://github.com/shay90210/github-readme-stats)
