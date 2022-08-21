@@ -1,7 +1,7 @@
 ![Grey Brown Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/99764268/185690334-77498bd7-d983-4eaf-adf8-93ba1d56ace2.png)
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/VgTMIEItHk9VakVmcS/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/VgTMIEItHk9VakVmcS/giphy.gif" width="100"/>
 </div>
 
 ## Introduction 
