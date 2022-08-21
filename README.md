@@ -1,7 +1,7 @@
 ![Grey Brown Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/99764268/185690334-77498bd7-d983-4eaf-adf8-93ba1d56ace2.png)
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/VgTMIEItHk9VakVmcS/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/VgTMIEItHk9VakVmcS/giphy.gif" width="300"/>
 <div id="badges">
 <a href="https://www.linkedin.com/in/shannontatibentley/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -32,8 +32,3 @@ Check out my projects!
 [![Shannon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shay90210&theme=algolia&show_icons=true)](https://github.com/shay90210/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shay90210&theme=algolia)](https://github.com/shay90210/github-readme-stats)
-
-## Contact
-[Twitter](https://twitter.com/ShannonTatianna)
-[LinkedIn](https://www.linkedin.com/in/shannontatibentley/)
-
