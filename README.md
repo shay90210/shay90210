@@ -13,7 +13,7 @@
 <img src="https://komarev.com/ghpvc/?username=shay90210&style=flat-square&color=blue" alt="Profile counter badge"/>
 </div>
 
-## Introduction 
+## Introduction :
 I am an ex-educator :teacher: and an ex-healthcare worker :health_worker: transitioning into tech. I taught myself the web development scripting languages, then started a bootcamp to learn about UI frameworks, UI libraries and the backend languages and relational databases to become a full-stack software engineer. I am creative, detail-oriented, and results-driven. 
 
 - 🐶 🐶 Charlotte Marie (Charley) & LadyBelle Anne
@@ -23,7 +23,7 @@ I am an ex-educator :teacher: and an ex-healthcare worker :health_worker: transi
 
 Check out my projects! 
 
-## About Me
+## About Me :
 - Self-Taught and Student @ Nucamp Coding Bootcamp
 - Teacher Credentials and Leadership Abilities
 - Content Creator for TikTok and Podcast "Talk Your FemSH!T"
@@ -37,7 +37,7 @@ Check out my projects!
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## GitHub Stats
+## GitHub Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shay90210&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
