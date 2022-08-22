@@ -1,16 +1,16 @@
 ![Grey Brown Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/99764268/185690334-77498bd7-d983-4eaf-adf8-93ba1d56ace2.png)
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/VgTMIEItHk9VakVmcS/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/VgTMIEItHk9VakVmcS/giphy.gif" width="300" />
 <div id="badges">
 <a href="https://www.linkedin.com/in/shannontatibentley/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
 <a href="https://twitter.com/ShannonTatianna">
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
 </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=shay90210&style=flat-square&color=blue" alt="Profile counter badge"/>
+<img src="https://komarev.com/ghpvc/?username=shay90210&style=flat-square&color=blue" alt="Profile counter badge" />
 </div>
 
 ## Introduction :
@@ -41,4 +41,4 @@ Check out my projects!
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shay90210&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shay90210&theme=algolia)](https://github.com/shay90210/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shay90210&layout=compact" />
