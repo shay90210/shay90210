@@ -41,4 +41,4 @@ Check out my projects!
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shay90210&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shay90210&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shay90210&layout=compact&theme=dark" />
