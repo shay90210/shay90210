@@ -13,7 +13,7 @@
 <img src="https://komarev.com/ghpvc/?username=shay90210&style=flat-square&color=blue" alt="Profile counter badge" />
 </div>
 
-## Introduction :
+## INTRODUCTION :
 I am an ex-educator :teacher: and an ex-healthcare worker :health_worker: transitioning into tech. I taught myself the web development scripting languages, then started a bootcamp to learn about UI frameworks, UI libraries and the backend languages and relational databases to become a full-stack software engineer. I am creative, detail-oriented, and results-driven. 
 
 - 🐶 🐶 Charlotte Marie (Charley) & LadyBelle Anne
@@ -28,18 +28,27 @@ Check out my projects!
 - Teacher Credentials and Leadership Abilities
 - Content Creator for TikTok and Podcast "Talk Your FemSH!T"
 
-## Languages and Tools :
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40" />
-<img src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg" title="Canva" **alt="Canva" width="40" height="40" />
-</div>
+## PROGRAMMING LANGUAGES :
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
 
-## GitHub Stats :
+## FRAMEWORKS AND LIBRARIES :
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+</p>
+
+## TOOLS :
+<p>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
+
+## GITHUB CONTRIBUTIONS :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shay90210&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
