@@ -1,4 +1,5 @@
-![div Slay div](https://user-images.githubusercontent.com/99764268/188250097-14c81203-06de-496e-80d6-ab8cc7b94155.png)
+# <style>slayShay</style>
+
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/VgTMIEItHk9VakVmcS/giphy.gif" width="300" />
 <div id="badges">
