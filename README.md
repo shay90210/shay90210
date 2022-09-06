@@ -9,7 +9,7 @@
 <a href="https://twitter.com/ShannonTatianna">
 <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
 </a>
-<a href="https://shannonbentley.tech">
+<a href="https://www.shannonbentley.tech">
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge" />
 </a>
 </div>
