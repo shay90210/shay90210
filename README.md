@@ -9,6 +9,9 @@
 <a href="https://twitter.com/ShannonTatianna">
 <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
 </a>
+<a href="shannonbentley.tech">
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge" />
+</a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=shay90210&style=flat-square&color=blue" alt="Profile counter badge" />
 </div>
