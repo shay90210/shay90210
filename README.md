@@ -50,6 +50,11 @@ Check out my projects!
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
+## DESIGN
+<p>
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+</p>
+
 ## TOOLS :
 <p>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the badge&logo=visual%20studio%20code&logoColor=white" />
