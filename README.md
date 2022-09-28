@@ -17,7 +17,7 @@
 </div>
 
 ## INTRODUCTION :
-I am an ex-educator :teacher: and an ex-healthcare worker :health_worker: transitioning into tech. I taught myself the web development scripting languages, then started a bootcamp to learn about UI frameworks, UI libraries and the backend languages and relational databases to become a full-stack software engineer. I am creative, detail-oriented, and results-driven. 
+I am an ex-educator :teacher: and an ex-healthcare worker :health_worker: transitioning into tech. I taught myself the web development scripting languages, then started a bootcamp to learn about UI frameworks, UI libraries and the backend languages and relational databases to become a full-stack MERN software engineer. I am creative, detail-oriented, and results-driven. 
 
 - 🐶 🐶 Charlotte Marie (Charley) & LadyBelle Anne
 - 💙	Disney, Thanksgiving/Christmas, Writing, & Cooking 
