@@ -1,4 +1,5 @@
-[White Neon Minimal with Glassmoprhism Shape and Gradient Background NFT Twitter Header (2)](https://user-images.githubusercontent.com/99764268/196013718-1d7fcae9-56c0-4f2a-b232-48d410c84d7c.png)
+#SHANNON TATIANNA BENTLEY, front end developer
+
 <div id="header" align="center">!
 <div id="badges">
 <a href="https://www.linkedin.com/in/shannontatibentley/">
@@ -27,7 +28,7 @@ Check out my projects!
 ## About Me :
 - Self-Taught and Student @ Nucamp Coding Bootcamp
 - Teacher Credentials and Leadership Abilities
-- Content Creator for TikTok and Podcast "Talk Your FemSH!T"
+- Content Creator for TikTok and Podcast "Talk Your FemSH!T" (TBA)
 
 ## PROGRAMMING LANGUAGES :
 <p>
