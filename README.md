@@ -1,6 +1,6 @@
-#SHANNON TATIANNA BENTLEY, front end developer
+![White Neon Minimal with Glassmoprhism Shape and Gradient Background NFT Twitter Header (2)](https://user-images.githubusercontent.com/99764268/196013863-7bd4964c-6696-4f93-9c8e-ab63665064da.png)
 
-<div id="header" align="center">!
+<div id="header" align="center">
 <div id="badges">
 <a href="https://www.linkedin.com/in/shannontatibentley/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
