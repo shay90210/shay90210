@@ -1,7 +1,5 @@
-# <style>slayShay</style> = SHANNON TATIANNA BENTLEY
-
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/VgTMIEItHk9VakVmcS/giphy.gif" width="300" />
+<div id="header" align="center">!
+[White Neon Minimal with Glassmoprhism Shape and Gradient Background NFT Twitter Header (2)](https://user-images.githubusercontent.com/99764268/196013718-1d7fcae9-56c0-4f2a-b232-48d410c84d7c.png)
 <div id="badges">
 <a href="https://www.linkedin.com/in/shannontatibentley/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
