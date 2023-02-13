@@ -25,7 +25,7 @@ I am actively searching for an entry-level/Junior-level Front End Developer posi
 - Teacher Credentials and Leadership/Supervisor experience
 - Content Creator for Medium Blog @theGlamTechie
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/starting-your-career-in-tech-85182fc4ee5b"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/starting-your-career-in-tech-85182fc4ee5b" alt="Recent Medium Article"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/0" alt="Recent Medium Article"> 
 
 ## GITHUB CONTRIBUTIONS :
 
