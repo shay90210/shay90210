@@ -16,14 +16,16 @@
 </div>
 
 ## INTRODUCTION :
-I am an ex-educator :teacher: and an ex-healthcare worker :health_worker: transitioning into tech. I taught myself the web development scripting languages, then started a bootcamp to learn about UI frameworks, UI libraries and the backend languages and relational databases to become a full-stack MERN software engineer. I am creative, detail-oriented, and results-driven. 
+A passionate and driven Help Desk Support Specialist, learning the ins and outs of the tech industry. Through my coding boot camp and self-motivation, I have learned HTML, CSS, and JavaScript. I am currently learning UI frameworks and libraries along with the MERN stack as a Nucamp student.
+
+I am actively searching for an entry-level/Junior-level Front End Developer position. I am also willing to apply for entry-level implementation manager positions and open to cybersecurity positions that focuses on development. I am eager to learn, possess leadership capabilities and other transferable skills. I also have a personality and smile that anyone would love. Connect with me or send me a message regarding any opportunities available.
 
 ## About Me :
 - Self-Taught learner and Student @ Nucamp Coding Bootcamp
 - Teacher Credentials and Leadership/Supervisor experience
 - Content Creator for Medium Blog @theGlamTechie
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991" alt="Recent Article"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/starting-your-career-in-tech-85182fc4ee5b"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/starting-your-career-in-tech-85182fc4ee5b" alt="Recent Medium Article"> 
 
 ## GITHUB CONTRIBUTIONS :
 
