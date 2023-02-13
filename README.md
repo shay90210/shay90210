@@ -26,7 +26,11 @@ I am actively searching for an entry-level/Junior-level Front End Developer posi
 - Content Creator for Medium Blog @theGlamTechie
 
 ## CHECK OUT MY LATEST MEDIUM ARTICLES :
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/0" alt="Recent Medium Article"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/0" alt="Recent Medium Article"> 
+  
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/1" alt="Recent Medium Article"> 
+    
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/2" alt="Recent Medium Article"> 
 
 ## PRIMARY PROJECT PROGRAMMING LANGUAGES :
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shay90210&layout=compact&theme=dark" />
