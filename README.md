@@ -20,15 +20,13 @@ A passionate and driven Help Desk Support Specialist, learning the ins and outs 
 
 I am actively searching for an entry-level/Junior-level Front End Developer position. I am also willing to apply for entry-level implementation manager positions and open to cybersecurity positions that focuses on development. I am eager to learn, possess leadership capabilities and other transferable skills. I also have a personality and smile that anyone would love. Connect with me or send me a message regarding any opportunities available.
 
-## About Me :
+## ABOUT :
 - Self-Taught learner and Student @ Nucamp Coding Bootcamp
 - Teacher Credentials and Leadership/Supervisor experience
 - Content Creator for Medium Blog @theGlamTechie
 
+## CHECK OUT MY LATEST MEDIUM ARTICLES :
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/0" alt="Recent Medium Article"> 
 
-## GITHUB CONTRIBUTIONS :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shay90210&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+## PRIMARY PROJECT PROGRAMMING LANGUAGES :
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shay90210&layout=compact&theme=dark" />
