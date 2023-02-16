@@ -23,7 +23,7 @@ I am actively searching for an entry-level/Junior-level Front End Developer posi
 ## ABOUT :
 - Self-Taught learner and Student @ Nucamp Coding Bootcamp
 - Teacher Credentials and Leadership/Supervisor experience
-- Content Creator for Medium Blog @theGlamTechie
+- Content Creator for Medium Blog @theGlamTechie_1991
 
 ## CHECK OUT MY LATEST MEDIUM ARTICLES :
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/0" alt="Recent Medium Article 0"> 
