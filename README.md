@@ -28,7 +28,7 @@ My interest in software engineering extends to cybersecurity, and I am exploring
 ## CHECK OUT MY LATEST MEDIUM ARTICLES :
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/0" alt="Recent Medium Article 0"> 
   
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/1" alt="Recent Medium Article 1"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theGlamTechie_1991/3" alt="Recent Medium Article 3"> 
 
 ## PRIMARY PROJECT PROGRAMMING LANGUAGES :
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shay90210&layout=compact&theme=dark" />
