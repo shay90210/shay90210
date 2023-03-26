@@ -1,4 +1,4 @@
-![White Neon Minimal with Glassmoprhism Shape and Gradient Background NFT Twitter Header (2)](https://user-images.githubusercontent.com/99764268/196013863-7bd4964c-6696-4f93-9c8e-ab63665064da.png)
+![White Neon Minimal with Glassmoprhism Shape and Gradient Background NFT Twitter Header](https://user-images.githubusercontent.com/99764268/227792829-400abac8-4e31-4f1d-bfdb-47f0f7f58ea8.png)
 
 <div id="header" align="center">
 <div id="badges">
