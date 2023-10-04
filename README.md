@@ -16,7 +16,7 @@
 </div>
 
 ## INTRODUCTION :
-As a Help Desk Support Specialist with a passion for technology, I am continuously learning about the intricacies of the industry. My coding boot camp and self-motivation have enabled me to acquire skills in HTML, CSS, and JavaScript. I am currently expanding my knowledge of the MERN stack along with Python, SQL databases, DSA, and SDLC.
+As a Workforce Support Specialist with a passion for technology, I am continuously learning about the intricacies of the industry. My coding boot camp and self-motivation have enabled me to acquire skills in HTML, CSS, and JavaScript. I am currently expanding my knowledge of the MERN stack along with Python, SQL databases, DSA, and SDLC.
 
 My interest in software engineering extends to cybersecurity, and I am exploring opportunities in this area to understand how software can be developed and secured to mitigate potential cyber threats. By combining my knowledge of software engineering with cybersecurity, I aim to create innovative and secure applications that will benefit both users and organizations.
 
