@@ -1,5 +1,3 @@
-![White Neon Minimal with Glassmoprhism Shape and Gradient Background NFT Twitter Header](https://user-images.githubusercontent.com/99764268/227792829-400abac8-4e31-4f1d-bfdb-47f0f7f58ea8.png)
-
 <div id="header" align="center">
 <div id="badges">
 <a href="https://www.linkedin.com/in/shannontatibentley/">
