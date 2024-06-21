@@ -1,14 +1,3 @@
-<div id="header" align="center">
-<div id="badges">
-<a href="https://www.linkedin.com/in/shannontatibentley/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-</a>
-<a href="https://twitter.com/ShannonTatianna">
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-</div>
-<img src="https://komarev.com/ghpvc/?username=shay90210&style=flat-square&color=blue" alt="Profile counter badge" />
-</div>
-
 ## INTRODUCTION :
 As a new learner with a passion for technology, I am continuously learning about the intricacies of the industry. My pre-apprenticeship and self-motivation have enabled me to acquire skills in HTML, CSS, and Ruby. I am currently expanding my knowledge on Python, Ruby on Rails, data structures, and algorithms.
 
