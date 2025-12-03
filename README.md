@@ -1,12 +1,11 @@
 ## INTRODUCTION :
-As a new learner with a passion for technology, I am continuously learning about the intricacies of the industry. My pre-apprenticeship and self-motivation have enabled me to acquire skills in HTML, CSS, and Ruby. I am currently expanding my knowledge on Python, Ruby on Rails, data structures, and algorithms.
+As a driven career-changer with a background in education, healthcare, and technical support for timekeeping systems, I bring a user-centered perspective to software development. I’m currently building my technical foundation through a learning from Nucamp and through self-directed projects that strengthen my skills in HTML, CSS, Ruby/Ruby on Rails, Python/Django, & MongoDB. I’m also expanding my understanding of data structures, algorithms, and modern development practices.
 
-My interest in software engineering extends to cybersecurity, and I am exploring opportunities in this area to understand how software can be developed and secured to mitigate potential cyber threats. By combining my knowledge of software engineering with cybersecurity, I aim to create innovative and secure applications that will keep both users and organizations safe.
+My growing interest in software engineering naturally extends into cybersecurity, where I’m exploring how secure coding principles, access control, and threat mitigation intersect with building reliable applications. My goal is to combine my technical training with real-world experience to create safe, intuitive, and scalable software that supports both users and organizations.
 
 ## ABOUT :
-- Self-Taught learner and Pre-Apprentice Student w/ Discover Partner Institute (DPI)
-- Content Creator for the DEV community
-- Teacher Credentials and Leadership/Supervisor experience
+- Former teacher with leadership, training, and supervisor experience
+- Professional background in healthcare and system support
 
 ## PRIMARY PROJECT PROGRAMMING LANGUAGES :
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shay90210&layout=compact&theme=dark" />
