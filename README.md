@@ -6,6 +6,3 @@ My growing interest in software engineering naturally extends into cybersecurity
 ## ABOUT :
 - Former teacher with leadership, training, and supervisor experience
 - Professional background in healthcare and system support
-
-## PRIMARY PROJECT PROGRAMMING LANGUAGES :
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shay90210&layout=compact&theme=dark" />
