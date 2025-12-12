@@ -4,5 +4,14 @@ I’m a driven career-changer with experience in education, healthcare, and tech
 My interest in software engineering naturally overlaps with cybersecurity, where I’m exploring secure coding, access control, and threat mitigation. My long-term goal is to build safe, intuitive, and scalable applications that genuinely support users and organizations.
 
 ## ABOUT :
-- Former teacher with leadership, training, and supervisor experience
-- Professional background in healthcare and system support
+- Former secondary educator with experience in classroom instruction, curriculum design, and learner-centered communication
+
+- Leadership background including team supervision, training, onboarding, and process development
+
+- Professional experience in healthcare and neuro rehabilitation, supporting patients, families, and interdisciplinary teams
+
+- Technical support experience with enterprise timekeeping systems, troubleshooting user issues, improving workflows, and documenting processes
+
+- Strong problem-solver with a user-focused mindset, adaptable across both fast-paced and highly regulated environments
+
+- Committed to continuous learning in software development, cybersecurity, and modern technical practices
