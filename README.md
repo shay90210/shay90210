@@ -8,8 +8,6 @@ My interest in software engineering naturally overlaps with cybersecurity, where
 
 - Leadership background including team supervision, training, onboarding, and process development
 
-- Professional experience in healthcare and neuro rehabilitation, supporting patients, families, and interdisciplinary teams
-
 - Technical support experience with enterprise timekeeping systems, troubleshooting user issues, improving workflows, and documenting processes
 
 - Strong problem-solver with a user-focused mindset, adaptable across both fast-paced and highly regulated environments
