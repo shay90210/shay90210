@@ -1,7 +1,7 @@
 ## INTRODUCTION :
-As a driven career-changer with a background in education, healthcare, and technical support for timekeeping systems, I bring a user-centered perspective to software development. I’m currently building my technical foundation through a learning from Nucamp and through self-directed projects that strengthen my skills in HTML, CSS, Ruby w/ Sinatra, Python w/ Django, & MongoDB. I’m also expanding my understanding of data structures, algorithms, and modern development practices.
+I’m a driven career-changer with experience in education, healthcare, and technical support for enterprise timekeeping systems. That mix gives me a strong user-centered perspective as I grow in software development. I’m currently strengthening my technical foundation through Nucamp and self-directed projects focused on HTML, CSS, Ruby with Sinatra, Python with Django, and MongoDB, while also building skills in data structures, algorithms, and modern development practices.
 
-My growing interest in software engineering naturally extends into cybersecurity, where I’m exploring how secure coding principles, access control, and threat mitigation intersect with building reliable applications. My goal is to combine my technical training with real-world experience to create safe, intuitive, and scalable software that supports both users and organizations.
+My interest in software engineering naturally overlaps with cybersecurity, where I’m exploring secure coding, access control, and threat mitigation. My long-term goal is to build safe, intuitive, and scalable applications that genuinely support users and organizations.
 
 ## ABOUT :
 - Former teacher with leadership, training, and supervisor experience
